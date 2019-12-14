@@ -1,0 +1,81 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.wlcm {
+    height: 100%;
+    background-image: url('../images/wlcm.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.slide1 {
+    height: 100%;
+    background-image: url('../images/img1.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide2 {
+    height: 100%;
+    background-image: url('../images/img2.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide3 {
+    height: 100%;
+    background-image: url('../images/img3.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide4 {
+    height: 100%;
+    background-image: url('../images/img4.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide5 {
+    height: 100%;
+    background-image: url('../images/img5.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide6 {
+    height: 100%;
+    background-image: url('../images/img6.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide7 {
+    height: 100%;
+    background-image: url('../images/img7.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide8 {
+    height: 100%;
+    background-image: url('../images/img8.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
