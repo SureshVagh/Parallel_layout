@@ -8,9 +8,113 @@ body {
     box-sizing: border-box;
 }
 
-.wlcm {
+.wlcm-img1 {
     height: 100%;
-    background-image: url('../images/wlcm.jpg');
+    background-image: url('../images/001.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wlcm-img2 {
+    height: 100%;
+    background-image: url('../images/002.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wlcm-img3 {
+    height: 100%;
+    background-image: url('../images/003.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wlcm-img4 {
+    height: 100%;
+    background-image: url('../images/004.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wlcm-img5 {
+    height: 100%;
+    background-image: url('../images/005.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wlcm-img6 {
+    height: 100%;
+    background-image: url('../images/006.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wlcm-img7 {
+    height: 100%;
+    background-image: url('../images/007.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wlcm-img8 {
+    height: 100%;
+    background-image: url('../images/008.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wlcm-img9 {
+    height: 100%;
+    background-image: url('../images/009.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wlcm-img10 {
+    height: 100%;
+    background-image: url('../images/010.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wlcm-img11 {
+    height: 100%;
+    background-image: url('../images/011.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wlcm-img12 {
+    height: 100%;
+    background-image: url('../images/012.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wlcm-img13 {
+    height: 100%;
+    background-image: url('../images/013.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.wlcm-img14 {
+    height: 100%;
+    background-image: url('../images/014.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
